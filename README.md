@@ -25,7 +25,7 @@ Code
 
 ├── notebooks/      # Jupyter notebooks with examples and analysis  
 
-├── scripts/        # Python scripts for reusable functions  # Not Available 
+├── scripts/        # Python scripts for reusable functions  # Not Available  
 
 ├── visualizations/ # Saved plots and charts  # NOT Available 
 
