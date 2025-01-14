@@ -23,7 +23,7 @@ Code
 
 ├── datasets/       # Raw datasets used for analysis  
 
-├── notebooks/      # Jupyter notebooks with examples and analysis  
+├── notebooks/      # Jupyter notebooks with examples and analysis   
 
 ├── scripts/        # Python scripts for reusable functions  # Not Available  
 
