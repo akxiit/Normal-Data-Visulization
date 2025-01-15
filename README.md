@@ -2,7 +2,7 @@
 
 Welcome to the Dataset Exploration repository! This project focuses on analyzing and visualizing datasets using Python's core data analysis libraries. Unlike many repositories that incorporate machine learning (ML) or deep learning (DL), the emphasis here is on understanding the data through basic analysis and creative visualizations.
 
-**🚀 Features**
+**🚀 Features** 
 
 *Data Analysis:* Use NumPy and Pandas for efficient data manipulation and exploration.
 
