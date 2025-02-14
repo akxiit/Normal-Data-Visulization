@@ -21,9 +21,9 @@ Code
 
 📦 Dataset-Exploration  
 
-├── datasets/       # Raw datasets used for analysis   
+├── datasets/       # Raw datasets used for analysis 
 
-├── notebooks/      # Jupyter notebooks with examples and analysis   
+├── notebooks/      # Jupyter notebooks with examples and analysis 
 
 ├── scripts/        # Python scripts for reusable functions  # Not Available  
 
