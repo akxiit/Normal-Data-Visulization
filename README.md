@@ -1,8 +1,8 @@
-**📊 Dataset Exploration with Python**
+**Dataset Exploration with Python**
 
 Welcome to the Dataset Exploration repository! This project focuses on analyzing and visualizing datasets using Python's core data analysis libraries. Unlike many repositories that incorporate machine learning (ML) or deep learning (DL), the emphasis here is on understanding the data through basic analysis and creative visualizations.
 
-**🚀 Features** 
+**Features** 
 
 *Data Analysis:* Use NumPy and Pandas for efficient data manipulation and exploration.
 
@@ -13,13 +13,13 @@ Welcome to the Dataset Exploration repository! This project focuses on analyzing
 *Community Contributions:* Open to unique ideas for analyzing datasets in creative ways.
 
 
-**📂 Folder Structure**  
+**Folder Structure**  
 
 ```bash
 
 Code
 
-📦 Dataset-Exploration  
+ Dataset-Exploration  
 
 ├── datasets/       # Raw datasets used for analysis  
 
@@ -34,7 +34,7 @@ Code
 ```
 
 
-🔧 Requirements
+ Requirements
 To use this repository, ensure you have the following installed:
 
 - Python 3.7 or above
@@ -56,7 +56,7 @@ Code
 pip install numpy pandas matplotlib seaborn
 ```
 
-**📚 How to Use**
+**How to Use**
 
 1. Clone this repository:
 
@@ -78,7 +78,7 @@ cd Noramal-Data-Visulization
   
 Explore the datasets using the Jupyter notebooks provided in the notebooks/ folder.
 
-**🤝 Contribution Guidelines**
+**Contribution Guidelines**
 
 We welcome contributions! Here's how you can contribute:
 
@@ -96,11 +96,11 @@ git checkout -b feature-name
 
 4. Create a pull request with a detailed description of your changes.
 
-**🌟 Inspiration**
+**Inspiration**
 
 This project aims to encourage creativity in dataset exploration by relying solely on data analysis and visualization libraries. We want to highlight the power of understanding data without relying on ML/DL models.
 
-**📧 Contact**
+**Contact**
 
 For any questions or suggestions, feel free to reach out:
 
