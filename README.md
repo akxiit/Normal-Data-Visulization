@@ -4,7 +4,7 @@ Welcome to the Dataset Exploration repository! This project focuses on analyzing
  
 **Features**
   
-*Data Analysis:* Use NumPy and Pandas for efficient data manipulation and exploration.
+*Data Analysis:* Use NumPy and Pandas for efficient data manipulation and exploration. 
 
 *Data Visualization:* Leverage Matplotlib and Seaborn to create insightful visualizations.
 
