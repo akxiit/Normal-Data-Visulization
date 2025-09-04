@@ -8,7 +8,7 @@ Welcome to the Dataset Exploration repository! This project focuses on analyzing
 
 *Data Visualization:* Leverage Matplotlib and Seaborn to create insightful visualizations.
 
-*No ML/DL Required:* Focus on fundamental techniques to uncover trends and patterns.
+*No ML/DL Required:* Focus on fundamental techniques to uncover trends and patterns. 
 
 *Community Contributions:* Open to unique ideas for analyzing datasets in creative ways.
  
